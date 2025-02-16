@@ -30,8 +30,8 @@ Feel the thrill of renting and returning cars while mastering OOP concepts. Dive
 
 ## Technologies Used
 
--Core Java
--OOPs Concepts
+-Core Java<br>
+-OOPs Concepts<br>
 -Collections
 
 ## Credits
